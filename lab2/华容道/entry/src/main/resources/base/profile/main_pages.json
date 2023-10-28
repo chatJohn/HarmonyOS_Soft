@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/EnterPage",
+    "pages/ImageChoosePage",
+    "pages/SplitImageAndGamings",
+    "pages/ModeChoosePage"
+  ]
+}
