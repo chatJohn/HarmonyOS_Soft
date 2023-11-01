@@ -1,10 +1,10 @@
 import router from '@ohos.router'
 import Prompt from '@system.prompt'
 import promptAction from '@ohos.promptAction'
-import ImageModel from './ImageSplit'
-import PictureItem from './PictureItem'
+import ImageModel from '../SplitUtils/ImageSplit'
+import PictureItem from '../ExportClass/PictureItem'
 
-import GameRules from './GameRules'
+import GameRules from '../SplitUtils/GameRules'
 @Entry
 @Component
 

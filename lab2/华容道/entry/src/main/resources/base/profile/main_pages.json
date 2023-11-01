@@ -3,7 +3,7 @@
     "pages/Index",
     "pages/EnterPage",
     "pages/ImageChoosePage",
-    "pages/SplitImageAndGamings",
+    "pages/SplitImageAndGamingsPage",
     "pages/ModeChoosePage"
   ]
 }

@@ -1,5 +1,5 @@
 import { DEFAULT } from '@ohos/hypium'
-import PictureItem from './PictureItem'
+import PictureItem from '../ExportClass/PictureItem'
 
 let   EMPTY_PICTURE: PictureItem = new PictureItem(-1, undefined, 0)
 let  NULL_PICTURE: PictureItem = new PictureItem(-1, undefined, -1)
