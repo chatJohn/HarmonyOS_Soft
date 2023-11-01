@@ -135,5 +135,7 @@ struct B {
     .justifyContent(FlexAlign.End)
     .height('100%')
     .width('100%')
+    .backgroundImage($r('app.media.bk2'))
+    .backgroundImageSize(ImageSize.Cover)
   }
 }

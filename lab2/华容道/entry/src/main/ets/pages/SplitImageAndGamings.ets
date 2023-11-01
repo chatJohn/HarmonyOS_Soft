@@ -7,6 +7,7 @@ import PictureItem from './PictureItem'
 import GameRules from './GameRules'
 @Entry
 @Component
+
 struct C {
   @State media: string = ''
   @State resourceMeda: Resource = null
@@ -125,5 +126,7 @@ struct C {
     }
     .height('100%')
     .width('100%')
+    .backgroundImage($r('app.media.bk2'))
+    .backgroundImageSize(ImageSize.Cover)
   }
 }
