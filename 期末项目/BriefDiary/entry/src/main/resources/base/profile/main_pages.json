@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/TransPage",
+    "pages/NewContentPage",
+    "pages/SearchPage",
+    "pages/ChoicePhotoPage",
+    "pages/StatisticsPage"
+  ]
+}

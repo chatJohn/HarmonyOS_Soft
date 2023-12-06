@@ -1,0 +1,14 @@
+{
+  "name": "briefdiary",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "meichuangtools": "file:meichuangtools-master/build/default/outputs/default/meichuangtools.har"
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  }
+}
