@@ -15,7 +15,7 @@ export async function httpWeatherGet(url: string) {
   let testhost = 'https://ali-weather.showapi.com'
   let testpath = '/area-to-weather-date'
   let request = http.createHttp();
-  let appcode = 'c0756713b1b749f0adf0ad0688b3b203'
+  let appcode = 'your_app_code'
   let querys = "areaCode=500101&needMoreDay=1&needIndex=0&need3HourForcast=0&needAlarm=0&needHourData=needHourData"
   let options = {
     method: http.RequestMethod.GET,
